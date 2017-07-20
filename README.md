@@ -1,0 +1,2 @@
+# superconf
+super config manager
